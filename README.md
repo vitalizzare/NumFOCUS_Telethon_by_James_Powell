@@ -16,4 +16,6 @@ Guests:
 - [Jeff Reback, Pandas core dev](https://youtu.be/gzbmLeaM8gs?t=9455)
 - [Tom Caswell, BDFL of Matplotlib](https://youtu.be/gzbmLeaM8gs?t=12782)
 
-James Powell, sweating [from A to Z](video_timing.md)
+James Powell, sweating [from A to Z](video_timing.md)  
+See [code snippets](code_snippets.md)
+
