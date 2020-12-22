@@ -12,5 +12,3 @@ ws = as_strided(zs[3:], strides=(8,), shape=(len(t)+1,))
 print(ws)
 ws[2] = id(3)
 print(t)
-
-del t, xs, ys, zs, ws
