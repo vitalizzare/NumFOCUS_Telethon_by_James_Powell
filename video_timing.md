@@ -3,21 +3,21 @@ B [breakpoint](https://youtu.be/gzbmLeaM8gs?t=2181)
 C [contextmanagers](https://youtu.be/gzbmLeaM8gs?t=2503)  
 D [dataclasses](https://youtu.be/gzbmLeaM8gs?t=2869)  
 E [eval, exec](https://youtu.be/gzbmLeaM8gs?t=3173)  
-F  
-G  
-H  
-I  
-J  
-K  
-L  
-M  
-N  
-O  
-P  
-Q  
-R  
-S  
-T [tuple](https://youtu.be/gzbmLeaM8gs?t=12291) -- [mutating tuples](https://youtu.be/gzbmLeaM8gs?t=13790)  
+F [functools](https://youtu.be/gzbmLeaM8gs?t=4500)  
+G [getattr](https://youtu.be/gzbmLeaM8gs?t=4861)  
+H [hash](https://youtu.be/gzbmLeaM8gs?t=5203)  
+I [iterator](https://youtu.be/gzbmLeaM8gs?t=5587)  
+J [json](https://youtu.be/gzbmLeaM8gs?t=5911)  
+K [\*\*kwargs](https://youtu.be/gzbmLeaM8gs?t=7475)  
+L [len](https://youtu.be/gzbmLeaM8gs?t=7833)  
+M [metaclass](https://youtu.be/gzbmLeaM8gs?t=8152)  
+N [nan](https://youtu.be/gzbmLeaM8gs?t=8507)  
+O [big-O](https://youtu.be/gzbmLeaM8gs?t=8840)  
+P [pandas](https://youtu.be/gzbmLeaM8gs?t=10625)  
+Q [queue](https://youtu.be/gzbmLeaM8gs?t=11137)  
+R [range](https://youtu.be/gzbmLeaM8gs?t=11559)  
+S [staticmethod](https://youtu.be/gzbmLeaM8gs?t=11930)  
+T tuples [part 1](https://youtu.be/gzbmLeaM8gs?t=12291), [part 2](https://youtu.be/gzbmLeaM8gs?t=13790)  
 U [underscore](https://youtu.be/gzbmLeaM8gs?t=13896)  
 V [ValueError](https://youtu.be/gzbmLeaM8gs?t=14221)  
 W [walrus](https://youtu.be/gzbmLeaM8gs?t=14577)  
