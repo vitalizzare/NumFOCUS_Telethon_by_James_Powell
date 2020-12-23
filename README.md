@@ -3,12 +3,10 @@ by James Powell [@dontusethiscode](https://twitter.com/dontusethiscode)
 December 19, 2020
 
 **[James Powell's performances from A to Z, video with timestamps](video_timing.md)**  
-**Here's [code snippets](code_snippets.md) from talks**  
+**[Code snippets](code_snippets.md) from talks**  
 
-Original video: https://youtu.be/gzbmLeaM8gs  
-
-Hosts [@urbanplans](https://twitter.com/urbanplans) and [@JaneHerriman](https://twitter.com/JaneHerriman)
-
+Video from the beginning: https://youtu.be/gzbmLeaM8gs  
+Hosts [@urbanplans](https://twitter.com/urbanplans) and [@JaneHerriman](https://twitter.com/JaneHerriman)  
 Guests:
 - [Leah Silen, Executive Director, NumFOCUS](https://youtu.be/gzbmLeaM8gs?t=910)
 - [Stefan van der Walt, founder of scikit-image](https://youtu.be/gzbmLeaM8gs?t=3769) 
