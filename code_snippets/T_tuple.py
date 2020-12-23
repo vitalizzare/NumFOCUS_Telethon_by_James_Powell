@@ -1,4 +1,13 @@
-# Original code
+''' 
+From the @NumFOCUS telethon
+
+title: T for tuple
+author: @dontusethiscode
+date: December 19, 2020
+'''
+
+# A hacky way to change tuples
+# See detailes in T_tuple_analyzed.py
 
 from numpy.lib.stride_tricks import as_strided
 from numpy import array

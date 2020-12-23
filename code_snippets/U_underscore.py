@@ -1,48 +1,75 @@
-''' underscore '''
+''' 
+From the @NumFOCUS telethon
 
-# typical usecases
-# 1) unnamed indexing
+title: U for underscore 
+author: @dontusethiscode
+date: December 19, 2020
+edited by: @vitalizzare
+date: December 23, 2020
+'''
+
+# TYPICAL USECASES OF A UNDERSCORE
+# 1) Unnamed indexing
 for _ in range(10):
     pass
 
-# 2) unnamed unpacking
+# 2) Unnamed unpacking
 head, *_ = [1, 2, 3]
 head, *_, tail = [1, 2, 3, 4]
 
-# 3) with REPL as the reference to the last ouput
+# 3) With REPL as the reference to the last ouput
 '''
->>> xs = [1, 2, 3]
->>> xs
-[1, 2, 3]
->>> xs == _
-True
+In [1]: [1, 2, 3]
+Out[1]: [1, 2, 3]
+
+In [2]: xs = _
+
+In [3]: xs == [1, 2, 3]
+Out[3]: True
 '''
 
 # WARNING
-# with IPython
+# Output in IPython is saved in Out:
 '''
 In [1]: xs = [1, 2, 3]
 
 In [2]: xs
 Out[2]: [1, 2, 3]
 
-In [3]: xs == _
+In [3]: xs == Out[2]
 Out[3]: True
 
-In [4]: xs == Out[2]
-Out[4]: True
+In [4]: del xs
 
-In [5]: del xs
+In [5]: 'xs' in globals()
+Out[5]: False
 
-In [6]: 'xs' in globals()
-Out[6]: False
-
-In [7]: Out[2]
-Out[7]: [1, 2, 3]
+In [6]: Out[2]
+Out[6]: [1, 2, 3]
 '''
-# Which means one should be careful with big objects in IPython 
-# (and Jupyter Notebooks). While reference of _ allways changes,
-# the output of the cell stays in memory with the Out dictionary
 
-# To delete a variable from anywhere in IPython, including 
-# the output history, use %xdel
+# This means that you need to be careful
+# with large objects in IPython and Jupyter Notebooks.
+# Although the value of _ always changes, the output
+# of the cell remains in memory in the Out dictionary
+
+# To remove a variable from anywhere in IPython including
+# output history, it is better to use %xdel
+
+'''
+In [1]: [1, 2, 3]
+Out[1]: [1, 2, 3]
+
+In [2]: xs = _
+
+In [3]: xs
+Out[3]: [1, 2, 3]
+
+In [4]: Out
+Out[4]: {1: [1, 2, 3], 3: [1, 2, 3]}
+
+In [5]: %xdel xs
+
+In [6]: Out
+Out[6]: {}
+'''
