@@ -1,6 +1,6 @@
 A  
 B  
-C [contextmanagers](C_contextmanagers.pypy)  
+C [contextmanagers](./code_snippets/C_contextmanagers.pypy)  
 D  
 E  
 F  
@@ -17,8 +17,8 @@ P
 Q  
 R  
 S  
-T tuples mutating: [original](./code_snippets/T_tuple_original.py), [detailes](./code_snippets/T_tuple_analyzed.py)  
-U [underscore](U_underscore.py)  
+T tuples mutating: [original](./code_snippets/T_tuple.py), [detailes](./code_snippets/T_tuple_edited.py)  
+U [underscore](./code_snippets/U_underscore.py)  
 V  
 W  
 X  
