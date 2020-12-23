@@ -1,6 +1,6 @@
 A  
 B  
-C [contextmanagers](./code_snippets/C_contextmanagers.pypy)  
+C [contextmanagers](./code_snippets/C_contextmanagers.py)  
 D  
 E  
 F  
