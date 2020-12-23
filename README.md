@@ -2,7 +2,10 @@
 by James Powell [@dontusethiscode](https://twitter.com/dontusethiscode)  
 December 19, 2020
 
-Original video: https://youtu.be/gzbmLeaM8gs
+**James Powell, video with timestamps [from A to Z](video_timing.md)**  
+**See [code snippets](code_snippets.md) from talks**  
+
+Original video: https://youtu.be/gzbmLeaM8gs  
 
 Hosts [@urbanplans](https://twitter.com/urbanplans) and [@JaneHerriman](https://twitter.com/JaneHerriman)
 
@@ -15,7 +18,4 @@ Guests:
 - [Katrina Riehl, NumFOCUS Board Member](https://youtu.be/gzbmLeaM8gs?t=9278)
 - [Jeff Reback, Pandas core dev](https://youtu.be/gzbmLeaM8gs?t=9455)
 - [Tom Caswell, BDFL of Matplotlib](https://youtu.be/gzbmLeaM8gs?t=12782)
-
-James Powell, sweating [from A to Z](video_timing.md)  
-See [code snippets](code_snippets.md)
 
