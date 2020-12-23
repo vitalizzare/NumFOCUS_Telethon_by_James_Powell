@@ -6,7 +6,7 @@ December 19, 2020
 **[Code snippets](code_snippets.md) from talks**  
 
 Video from the beginning: https://youtu.be/gzbmLeaM8gs  
-Hosts [@urbanplans](https://twitter.com/urbanplans) and [@JaneHerriman](https://twitter.com/JaneHerriman)  
+Hosts: [@urbanplans](https://twitter.com/urbanplans) and [@JaneHerriman](https://twitter.com/JaneHerriman)  
 Guests:
 - [Leah Silen, Executive Director, NumFOCUS](https://youtu.be/gzbmLeaM8gs?t=910)
 - [Stefan van der Walt, founder of scikit-image](https://youtu.be/gzbmLeaM8gs?t=3769) 
