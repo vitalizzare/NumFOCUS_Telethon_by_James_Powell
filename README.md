@@ -2,8 +2,8 @@
 by James Powell [@dontusethiscode](https://twitter.com/dontusethiscode)  
 December 19, 2020
 
-**James Powell, video with timestamps [from A to Z](video_timing.md)**  
-**See [code snippets](code_snippets.md) from talks**  
+**[James Powell's performances from A to Z, video with timestamps](video_timing.md)**  
+**Here's [code snippets](code_snippets.md) from talks**  
 
 Original video: https://youtu.be/gzbmLeaM8gs  
 
