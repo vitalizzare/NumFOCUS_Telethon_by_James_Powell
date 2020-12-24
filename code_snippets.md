@@ -3,7 +3,7 @@ B
 C [contextmanagers](./code_snippets/C_contextmanagers.py)  
 D  
 E  
-F  
+F [functools](./code_snippets/F_functools.py)  
 G  
 H  
 I  
