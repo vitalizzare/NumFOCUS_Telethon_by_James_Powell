@@ -9,7 +9,7 @@ H
 I  
 J  
 K  
-L  
+L [len](./code_snippets/L_len.py)  
 M  
 N  
 O  
