@@ -22,5 +22,5 @@ U [underscore](./code_snippets/U_underscore.py)
 V  
 W  
 X  
-Y  
+Y [yield from](./code_snippets/Y_yield_from.py)  
 Z  
