@@ -10,7 +10,7 @@ I
 J  
 K  
 L [len](./code_snippets/L_len.py)  
-M [metaclass](./code_snippets/M_metaclass.py)
+M [metaclass](./code_snippets/M_metaclass.py)  
 N  
 O  
 P  
