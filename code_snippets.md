@@ -21,6 +21,6 @@ T tuples mutating: [original](./code_snippets/T_tuple.py), [detailes](./code_sni
 U [underscore](./code_snippets/U_underscore.py)  
 V  
 W  
-X  
+X [xarray](./code_snippets/X_xarray.py)   
 Y [yield from](./code_snippets/Y_yield_from.py)  
 Z  
