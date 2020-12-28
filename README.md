@@ -2,8 +2,8 @@
 by James Powell [@dontusethiscode](https://twitter.com/dontusethiscode)  
 December 19, 2020
 
-**[James Powell's performances from A to Z, video with timestamps](video_timing.md)**  
-**[Code snippets](code_snippets.md) from talks**  
+**[Python from A to Z by James Powell, video with timestamps](video_timing.md)**  
+**[Code snippets](code_snippets.md)**  
 
 Video from the beginning: https://youtu.be/gzbmLeaM8gs  
 Hosts: [@urbanplans](https://twitter.com/urbanplans) and [@JaneHerriman](https://twitter.com/JaneHerriman)  
