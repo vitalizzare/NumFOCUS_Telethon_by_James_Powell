@@ -3,6 +3,7 @@ From the @NumFOCUS telethon
 
 title: T for tuple
 author: @dontusethiscode
+video: https://youtu.be/gzbmLeaM8gs?t=13792
 date: December 19, 2020
 '''
 
