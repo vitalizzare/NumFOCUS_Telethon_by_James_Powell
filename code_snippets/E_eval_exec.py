@@ -4,7 +4,7 @@ From the @NumFOCUS telethon
 title: E for eval and exec
 author: @dontusethiscode
 date: December 19, 2020
-python version: >= 3.7
+python version: >= 3.8
 video: https://youtu.be/gzbmLeaM8gs?t=3173
 edited by: @vitalizzare
 date: December 28, 2020
