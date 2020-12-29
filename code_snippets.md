@@ -2,7 +2,7 @@ A
 B  
 C [contextmanagers](./code_snippets/C_contextmanagers.py)  
 D  
-E  
+E [eval/exec](./code_snippets/E_eval_exec.py)  
 F [functools](./code_snippets/F_functools.py)  
 G  
 H  
