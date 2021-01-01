@@ -7,7 +7,7 @@ F [functools](./code_snippets/F_functools.py)
 G  
 H  
 I  
-J  
+J [json](./code_snippets/J_json.py)    
 K  
 L [len](./code_snippets/L_len.py)  
 M [metaclass](./code_snippets/M_metaclass.py)  
