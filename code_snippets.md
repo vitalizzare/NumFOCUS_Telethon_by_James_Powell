@@ -8,7 +8,7 @@ G
 H  
 I  
 J [json](./code_snippets/J_json.py)    
-K  
+K [\*\*kwargs](./code_snippets/K_kwargs.py)    
 L [len](./code_snippets/L_len.py)  
 M [metaclass](./code_snippets/M_metaclass.py)  
 N  
