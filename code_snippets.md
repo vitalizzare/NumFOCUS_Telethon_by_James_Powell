@@ -12,7 +12,7 @@ K
 L [len](./code_snippets/L_len.py)  
 M [metaclass](./code_snippets/M_metaclass.py)  
 N  
-O  
+O [big-O](./code_snippets/O_big_O.py)    
 P  
 Q [queue](./code_snippets/Q_queue.py)  
 R  
