@@ -1,7 +1,7 @@
 A  
 B [breakpoint](./code_snippets/B_breakpoint.py)    
 C [contextmanagers](./code_snippets/C_contextmanagers.py)  
-D  
+D [dataclasses](./code_snippets/D_dataclasses.py)  
 E [eval/exec](./code_snippets/E_eval_exec.py)  
 F [functools](./code_snippets/F_functools.py)  
 G  
