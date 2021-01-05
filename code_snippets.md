@@ -11,7 +11,7 @@ J [json](./code_snippets/J_json.py)
 K [\*\*kwargs](./code_snippets/K_kwargs.py)    
 L [len](./code_snippets/L_len.py)  
 M [metaclass](./code_snippets/M_metaclass.py)  
-N  
+N [nan](./code_snippets/N_nan.py)    
 O [big-O](./code_snippets/O_big_O.py)    
 P  
 Q [queue](./code_snippets/Q_queue.py)  
