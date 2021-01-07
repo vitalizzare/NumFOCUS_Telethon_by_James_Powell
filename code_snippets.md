@@ -4,7 +4,7 @@ C [contextmanagers](./code_snippets/C_contextmanagers.py)
 D [dataclasses](./code_snippets/D_dataclasses.py)  
 E [eval/exec](./code_snippets/E_eval_exec.py)  
 F [functools](./code_snippets/F_functools.py)  
-G  
+G [getattr](./code_snippets/G_getattr.py)    
 H  
 I  
 J [json](./code_snippets/J_json.py)    
