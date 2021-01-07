@@ -13,7 +13,7 @@ L [len](./code_snippets/L_len.py)
 M [metaclass](./code_snippets/M_metaclass.py)  
 N [nan](./code_snippets/N_nan.py)    
 O [big-O](./code_snippets/O_big_O.py)    
-P  
+P [pandas](./code_snippets/P_pandas.py)    
 Q [queue](./code_snippets/Q_queue.py)  
 R  
 S  
