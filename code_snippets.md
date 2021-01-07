@@ -1,4 +1,4 @@
-A  
+A [numpy.array](./code_snippets/A_numpy_array.py)    
 B [breakpoint](./code_snippets/B_breakpoint.py)    
 C [contextmanagers](./code_snippets/C_contextmanagers.py)  
 D [dataclasses](./code_snippets/D_dataclasses.py)  
