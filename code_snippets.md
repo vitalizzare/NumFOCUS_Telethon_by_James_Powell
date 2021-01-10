@@ -23,4 +23,4 @@ V
 W  
 X [xarray](./code_snippets/X_xarray.py)  
 Y [yield from](./code_snippets/Y_yield_from.py)  
-Z  
+Z [zip](./code_snippets/Z_zip.py)    
