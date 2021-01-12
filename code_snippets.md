@@ -15,7 +15,7 @@ N [nan](./code_snippets/N_nan.py)
 O [big-O](./code_snippets/O_big_O.py)    
 P [pandas](./code_snippets/P_pandas.py)    
 Q [queue](./code_snippets/Q_queue.py)  
-R  
+R [range](./code_snippets/R_range.py)    
 S  
 T tuples: [original](./code_snippets/T_tuple.py), [detailes](./code_snippets/T_tuple_edited.py)  
 U [underscore](./code_snippets/U_underscore.py)  
