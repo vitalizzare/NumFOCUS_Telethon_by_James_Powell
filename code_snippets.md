@@ -5,7 +5,7 @@ D [dataclasses](./code_snippets/D_dataclasses.py)
 E [eval/exec](./code_snippets/E_eval_exec.py)  
 F [functools](./code_snippets/F_functools.py)  
 G [getattr](./code_snippets/G_getattr.py)    
-H  
+H [hash](./code_snippets/H_hash.py)    
 I  
 J [json](./code_snippets/J_json.py)    
 K [\*\*kwargs](./code_snippets/K_kwargs.py)    
