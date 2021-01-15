@@ -20,7 +20,7 @@ S [staticmethod](./code_snippets/S_staticmethod.py)
 T tuples: [original](./code_snippets/T_tuple.py), [detailes](./code_snippets/T_tuple_edited.py)  
 U [underscore](./code_snippets/U_underscore.py)  
 V [ValueError](./code_snippets/V_valueerror.py)    
-W  
+W [walrus](./code_snippets/W_walrus.py)    
 X [xarray](./code_snippets/X_xarray.py)  
 Y [yield from](./code_snippets/Y_yield_from.py)  
 Z [zip](./code_snippets/Z_zip.py)    
