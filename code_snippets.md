@@ -19,7 +19,7 @@ R [range](./code_snippets/R_range.py)
 S [staticmethod](./code_snippets/S_staticmethod.py)    
 T tuples: [original](./code_snippets/T_tuple.py), [detailes](./code_snippets/T_tuple_edited.py)  
 U [underscore](./code_snippets/U_underscore.py)  
-V  
+V [ValueError](./code_snippets/V_valueerror.py)    
 W  
 X [xarray](./code_snippets/X_xarray.py)  
 Y [yield from](./code_snippets/Y_yield_from.py)  
